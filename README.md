@@ -9,4 +9,4 @@ Technology Stack
 The project appears to be built using a combination of HTML, CSS, and JavaScript, which are common web development technologies. However, without more information about the specific libraries, frameworks, or tools used, it's difficult to provide a more detailed technology stack.
 
 License
-The license for this project is not specified in the provided content
+The license for this project is not specified in the provided content.
