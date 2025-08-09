@@ -1,6 +1,6 @@
 # AAHIR-chatbot-
 
-his GitHub repository appears to be for an AAHIR chatbot project. The repository contains several files, including a README.md file, an index.htm file, a script.js file, a style.css file, and some image files.
+This GitHub repository appears to be for an AAHIR chatbot project. The repository contains several files, including a README.md file, an index.htm file, a script.js file, a style.css file, and some image files.
 
 Main Function Points
 The main function of this project seems to be the development of an AAHIR chatbot, which is likely an AI-powered conversational agent. The project may include features such as natural language processing, dialogue management, and integration with various platforms or services.
